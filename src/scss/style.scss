@@ -48,6 +48,7 @@ body {
 
 a {
     color: $primary;
+    cursor: pointer;
     transition: 0.3s all ease;
 
     &:hover,
