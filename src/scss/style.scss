@@ -821,8 +821,11 @@ h5,
             }
 
             .icon {
+                height: 100px;
+
                 span {
                     color: $white;
+                    height: 100%;
                 }
             }
         }
